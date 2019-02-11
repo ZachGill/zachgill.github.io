@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Zachary Gillenwater's Brilliant Github Page
 
-You can use the [editor on GitHub](https://github.com/ZachGill/zachgill.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Neato burrito, it's a website and on GitHub and stuff
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I Do
 
-### Markdown
+Code, mostly. Check out my GitHub profile to see some of my small personal projects, like a web API written in Go that answers math questions posed in query parameters.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is the purpose of this page?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZachGill/zachgill.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Because I've been instructed to do so for a Computer Science course
+  * And if I don't
+    * I will get a zero
+    
+### I will probably put useful information on this page at some point
+More likely I'll forget it exists for a while, see that it's barren, and then get rid of it until I have useful information to place on it

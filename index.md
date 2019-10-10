@@ -1,7 +1,7 @@
-## zacharygillenwater@gmail.com / www.github.com/ZachGill
+## [Email](zacharygillenwater@gmail.com) / [GitHub](www.github.com/ZachGill)
 ### Education:
 
-* #### Boise State University, Majoring in Computer Science: Expected Graduation *May 2021*
+* #### Boise State University, Majoring in Computer Science: *Expected Graduation May 2021*
 * #### Sandpoint High School: *2013 - 2017*
 * #### Self-Study in Programming: *2010 - Present*
 
@@ -13,6 +13,7 @@
     * Helped create a deployer for applications using Kubernetes and Helm
     * Developed a UI for an existing tool using Angular
     * Put high priority on clean coding practices and documentation
+
 * #### Kochava - Software Development Intern *(Summer 2017 & 2018)*
     * Worked in a team to create and maintain online ad analytics software
     * Wrote, maintained, and modified web services using Go and PHP

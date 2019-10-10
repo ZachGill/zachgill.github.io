@@ -1,4 +1,3 @@
-# Zachary Gillenwater
 ## zacharygillenwater@gmail.com / www.github.com/ZachGill
 ### Education:
 

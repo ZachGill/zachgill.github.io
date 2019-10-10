@@ -1,4 +1,4 @@
-## [Email](zacharygillenwater@gmail.com) / [GitHub](www.github.com/ZachGill)
+## [Email](mailto:zacharygillenwater@gmail.com) / [GitHub](https://www.github.com/ZachGill)
 ### Education:
 
 * #### Boise State University, Majoring in Computer Science: *Expected Graduation May 2021*

@@ -1,20 +1,20 @@
 # Zachary Gillenwater
-## zacharygillenwater@gmail.com / github.com/ZachGill
+## zacharygillenwater@gmail.com / www.github.com/ZachGill
 ### Education:
 
-* Boise State University, Majoring in Computer Science: Expected Graduation May 2021
-* Sandpoint High School: 2013 - 2017
-* Self-Study in Programming: 2010 - Present
+* #### Boise State University, Majoring in Computer Science: Expected Graduation *May 2021*
+* #### Sandpoint High School: *2013 - 2017*
+* #### Self-Study in Programming: *2010 - Present*
 
 ### Experience:
 
-* Clearwater Analytics - Software Development Intern (May 2019 - Present)
+* #### Clearwater Analytics - Software Development Intern *(May 2019 - Present)*
     * Collaborated with other interns to maintain and develop internal software 
     * Improved an endpoint regression testing tool written in Java with an Angular UI
     * Helped create a deployer for applications using Kubernetes and Helm
     * Developed a UI for an existing tool using Angular
     * Put high priority on clean coding practices and documentation
-* Kochava - Software Development Intern (Summer 2017 & 2018)
+* #### Kochava - Software Development Intern *(Summer 2017 & 2018)*
     * Worked in a team to create and maintain online ad analytics software
     * Wrote, maintained, and modified web services using Go and PHP
     * Created clients for an internal API authentication library in Go, PHP, and Swift
